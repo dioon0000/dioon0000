@@ -7,13 +7,13 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-#### ✨GitHub Stats✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioon0000&show_icons=true&theme=gruvbox)
 #### 백준
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dioon0000)](https://solved.ac/dioon0000)
 #### 프로그래머스
 ![프로그래머스 프로필](https://raw.githubusercontent.com/dioon0000/PROGRAMMERS-BADGE/master/static/result.svg)
+#### ✨GitHub Stats✨
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioon0000&show_icons=true&theme=gruvbox)
 
 <!--
 **dioon0000/dioon0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
